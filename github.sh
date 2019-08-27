@@ -1,3 +1,4 @@
+#/usr/bin/bash
 if [ -z $1 ]; then
 	echo "Please add a comment!"
 	exit 0
