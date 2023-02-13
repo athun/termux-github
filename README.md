@@ -29,3 +29,4 @@ to install. It will probably take a long time since it needs to check the CTAN a
 
 ## 5. Usage
 Use `git status` to check git status (duh), and then use `github "<commit message>"` to commit the changes and push it to the master origin. (No, currently there's no option to change the branch.) I personally use [SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh) to make things more convenient.
+p0pg
